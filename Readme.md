@@ -2,14 +2,13 @@
 
 ### BigQuery | Python | Modelagem Dimensional | Apache Superset (Preset)
 
-![alt text](<scd2/Captura de tela de 2025-12-12 15-42-10.png>)
+![alt text](<Imagens/Captura de tela de 2025-12-12 15-42-10.png>)
 
+![alt text](<Imagens/Captura de tela de 2025-12-12 15-42-23.png>)
 
-![alt text](<scd2/Captura de tela de 2025-12-12 15-42-23.png>)
+![alt text](<Imagens/Captura de tela de 2025-12-12 15-42-40.png>)
 
-![alt text](<scd2/Captura de tela de 2025-12-12 15-42-40.png>)
-
-![alt text](<scd2/Captura de tela de 2025-12-12 15-42-56.png>)
+![alt text](<Imagens/Captura de tela de 2025-12-12 15-42-56.png>)
 
 ### 📋 Visão Geral
 
